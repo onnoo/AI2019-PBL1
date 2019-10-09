@@ -3,7 +3,7 @@ from sklearn.preprocessing import StandardScaler
 from loader import load
 
 """
-SVM Classifier which trains and 
+SVM Classifier which trains 
 """
 
 class SVMModel:

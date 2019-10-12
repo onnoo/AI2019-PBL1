@@ -18,7 +18,7 @@
 |안채령|||Logistic Regression|
 |현승재|||SVM|
 |양재우|[onnoo](https://github.com/onnoo)|sweyjw@gmail.com|Logistic Regression|
-|김유신|||SVM|
+|김유신|[hd132506](https://github.com/hd132506)|subch1055@gmail.com|SVM|
 
 ## Reference
 > [Course Info](https://sites.google.com/view/ailab-hyu/courses/2019-2-artificial-intelligence)  

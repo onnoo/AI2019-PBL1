@@ -14,9 +14,9 @@
 ## Team Composition
 |Name|GitHub|Mail|Target model|
 |:------:|:---:|:---:|:---:|
-|정성학|||Logistic Regression|
-|안채령|||Logistic Regression|
-|현승재|||SVM|
+|정성학|[jshagold](https://github.com/jshagold)|jshagold@gmail.com|Logistic Regression|
+|안채령|[asjnhy](https://github.com/asjnhy)|acting171@gmail.com|Logistic Regression|
+|현승재|[HyunSJ](https://github.com/HyunSJ)|dudtod1596@gmail.com|SVM|
 |양재우|[onnoo](https://github.com/onnoo)|sweyjw@gmail.com|Logistic Regression|
 |김유신|[hd132506](https://github.com/hd132506)|subch1055@gmail.com|SVM|
 
